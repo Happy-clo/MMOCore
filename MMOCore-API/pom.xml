@@ -235,7 +235,7 @@
         <dependency>
             <groupId>de.erethon</groupId>
             <artifactId>DungeonsXL</artifactId>
-            <version>0.18-SNAPSHOT-1149</version>
+            <version>0.18-PRE-02</version>
             <scope>provided</scope>
         </dependency>
 
