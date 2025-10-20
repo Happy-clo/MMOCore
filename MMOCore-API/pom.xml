@@ -142,7 +142,7 @@
         <dependency>
             <groupId>fr.phoenixdevt</groupId>
             <artifactId>Profile-API</artifactId>
-            <version>1.1</version>
+            <version>1.2</version>
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
